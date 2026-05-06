@@ -1,7 +1,4 @@
-Conversation RAG Bot – README (short, plain text)
-
-
-
+Conversation RAG Bot 
 1. What this project does
 
 This project takes conversations.csv, where each row is one day’s conversation, and turns it into a chatbot.
